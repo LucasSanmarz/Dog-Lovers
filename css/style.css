@@ -41,6 +41,7 @@
     
     .container-footer {
         margin-left: 50vh;
+        flex-grow:1;
     }
     /*.box {
         width: 300px;
